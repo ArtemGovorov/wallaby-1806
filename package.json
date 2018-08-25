@@ -1,0 +1,7 @@
+{
+  "name": "wallaby-1806",
+  "version": "1.0.0",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
